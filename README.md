@@ -26,6 +26,8 @@ I'm **Susy Haga**, **Front-end Engineer** student at EBAC with a background in d
 :rocket: I took courses focusing on Web Development while I was living in Berlin. I came back to Brazil and searched for a more advanced course to join the market as a Front-end Developer. Nowadays, I'm on the Front End Engineer course from EBAC - Escola Britânica de Artes Criativas e Tecnologia, which is planned to be finished in H1-2024. 
 
 
+
+
 <div align="center">
   <a href="https://github.com/ogiansouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susyhaga&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
