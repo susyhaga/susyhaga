@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub! :tada: I'm **Susy Haga**, a **Front-end Engineer** student at EBAC with a background in digital marketing. 
+Welcome to my GitHub! :tada: 
 
+I'm **Susy Haga**, **Front-end Engineer** student at EBAC with a background in digital marketing. :woman_student:
 
-Creative by soul, curious by lack of options, I've always loved to follow the market trends. With the development of the technology, I noticed the need for updating myself. That's how I ended up on the Web Development course. Everything was new, new people, new languages, and new experiences. Finally, I ended up falling in love with this challenge, which makes me motivated every day because it's a huge world of learning.
+#### About me :octocat:
+
+Creative by soul, curious by lack of options, I've always loved to follow the market trends. Through the development of the technology, I noticed the need for updating myself. That's how I ended up on the Web Development course. Everything was new, new people, new languages, and new experiences. Finally, I ended up falling in love with this challenge, which makes me motivated every day because it's a huge world of learning.
 
 As a marketing strategist, my focus was on the user experience, so I had a lot of interaction with Front-end developers. At that time, I used to ask for impossible things, that's why I felt the need to join a course to better understand the technical side. In the end, I wanted to be one of them.
 
