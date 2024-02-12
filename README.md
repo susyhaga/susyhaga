@@ -29,6 +29,6 @@ I'm **Susy Haga**, **Front-end Engineer** student at EBAC with a background in d
 <div align="center">
   <a href="https://github.com/ogiansouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susyhaga&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="![susyhaga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=susyhaga&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susyhaga&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
