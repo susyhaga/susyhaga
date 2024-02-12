@@ -1,5 +1,3 @@
-### Hello! 👋
-
 <!--
 **susyhaga/susyhaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub! :tada: 
+### Welcome to my GitHub! :tada: 
 
 I'm **Susy Haga**, **Front-end Engineer** student at EBAC with a background in digital marketing. :woman_student:
 
