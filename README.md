@@ -22,6 +22,7 @@ I'm **Susy Haga**, **Front-end Engineer** student at EBAC with a background in d
 :bulb:   With over 10 years of experience as a Marketing Professional, I have
       strong communication, creativity, problem-solving, teamwork, leadership,
       and project coordination skills.
+      
 :computer: After realizing the importance of keeping
       up with technological changes, I specialized in web development while
       living in Berlin. 
